@@ -2,7 +2,7 @@
 
 Upload your resume as a PDF, see the skills found in it, compare them with job requirements, save jobs, and optionally track your applications.
 
-![CI](https://github.com/YOUR-USERNAME/ai-careerpilot/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Bhavithagolthila/ai-careerpilot/actions/workflows/ci.yml/badge.svg)
 
 **Live demo:** _add your link here after deploying_
 
