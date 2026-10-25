@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic-settings
+email-validator
+python-multipart
+pyjwt
+bcrypt
+pypdf
+pytest
+httpx
+mongomock

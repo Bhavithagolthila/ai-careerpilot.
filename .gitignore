@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets and config (only the .example files are committed)
+.env
+.env.*
+!.env.example
+
+# Privacy: never commit real resumes, uploads or local databases
+*.pdf
+*.doc
+*.docx
+uploads/
+private/
+*.db
+*.sqlite3
+dump/
+
+# Node / build output
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
